@@ -1,2 +1,2 @@
-# tec-PIO
-TEC-1 addon PIO or PPI selectable; parallel input / output.
+# tec-PPI
+TEC-1 addon PPI parallel input / output.
