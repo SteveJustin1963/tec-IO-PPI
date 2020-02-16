@@ -20,7 +20,7 @@ TEC-1 addon PPI parallel input / output.
 
 ## Method 
 
-##Circuit
+## Circuit
 
 https://easyeda.com/editor#id=4fd98e28aef24e9f8ccac86fc7e77637|a4f9b645dd3d42429bad062f9cdb1220
 
