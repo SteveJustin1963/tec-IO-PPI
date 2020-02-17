@@ -1,11 +1,10 @@
 # tec-PPI
 
 
-
-
-
 ## Abstract
-TEC-1 addon PPI parallel input / output.
+
+TEC-1 addon using 24 port PPI 8255, PPI parallel input / output chip. 
+
 
 ## Introduction 
 
@@ -37,6 +36,13 @@ https://easyeda.com/editor#id=4fd98e28aef24e9f8ccac86fc7e77637|a4f9b645dd3d42429
 ## Acknowledgements
 
 ## References
+http://www.cpcwiki.eu/index.php/Z80_PIO
+
+https://au.rs-online.com/web/p/microcontrollers/6259084
+
+
+
+
 
 ## Iterate, new hypotheses or predictions
 
