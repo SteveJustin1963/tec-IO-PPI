@@ -1,5 +1,6 @@
 # tec-IO-PPI
 
-TEC-1 addon using a PPI 8255 ic, offering 24 PPI parallel input / output ports. 
+The first IO for the TEC-1 was in TE 14-23 , https://github.com/SteveJustin1963/tec-IO
 
-https://github.com/SteveJustin1963/tec-PPI-IO/wiki
+Jim Roberson spoke about a PPI chip. This concept changes from latches to the intel 8255, with 24 PPI parallel input/output ports. 
+He said it was for programming eproms.
